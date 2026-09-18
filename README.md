@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 **Hi, I’m AQIB AlO from Lahore, Pakistan.**<br>🤖 **I’m learning and working with AI, Machine Learning, Deep Learning, AI Chatbots, Robotics, and AI Agents.**<br>💻 **I’m also doing Full-Stack Web Development, Video Editing, Graphic Designing, and Animation as a basic & intermediate level.**<br>🤝 **I’m looking to learn, build exciting projects, and collaborate with creative and tech-minded people.**<br>🎨 **Fun fact:** I love drawing, creating art, and bringing ideas to life through animation.<br>🚀 **Big dream:** I want to build a complete **Iron Man-inspired model** someday! <br>
-
+          
                                                            
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fwork5033@gmail.com) 
